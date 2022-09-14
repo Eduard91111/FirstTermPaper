@@ -18,7 +18,7 @@ public class Employee {
 
     public void SetFIO(String fio) { this.FIO = fio; }
     public void SetDepartment(int department) { this.Department = department; }
-    public void SetSalary(float sal) { this.Salary = sal; }
+    public void SetSalary(float salary) { this.Salary = salary; }
 
     @Override
     public String toString() {
